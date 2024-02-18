@@ -1,1 +1,1 @@
-console.log("Better CMC Loaded");
+console.log("Better CG Loaded");

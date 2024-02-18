@@ -1,4 +1,4 @@
-# Better CoinMarketCap Extension
+# Better CoinGecko Extension
 
 Enhance your CoinMarketCap experience with "Better CoinMarketCap," a Chrome extension that simplifies and improves the website's interface by removing ads, community sections filled with scams, and other unnecessary elements. 
 
