@@ -1,3 +1,7 @@
 [data-ads-target="banner"] {
   display: none;
 }
+
+table[data-controller="coin-row-ads"] tbody tr td:nth-child(4n) {
+  display: none;
+}
